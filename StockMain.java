@@ -1,8 +1,3 @@
-/**Second project
-   Sondos Ahmad Aabed
-   1190652
-   Dr. Eyad Jaber, Dr. Esraa Hamed, Lab section 1 **/
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
